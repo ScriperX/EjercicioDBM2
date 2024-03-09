@@ -1,0 +1,84 @@
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfoInputs.cache
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfo.cs
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.csproj.CoreCompileInputs.cache
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.exe
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.deps.json
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.runtimeconfig.json
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.dll
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.pdb
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.dll
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\refint\EjercicioDBM2.dll
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.pdb
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.genruntimeconfig.cache
+C:\Users\salak401\source\repos\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\ref\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.exe
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.deps.json
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.runtimeconfig.json
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.pdb
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfoInputs.cache
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfo.cs
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.csproj.CoreCompileInputs.cache
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\refint\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.pdb
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.genruntimeconfig.cache
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\ref\EjercicioDBM2.dll
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.exe
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.deps.json
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.runtimeconfig.json
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.dll
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.pdb
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfoInputs.cache
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfo.cs
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.dll
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\refint\EjercicioDBM2.dll
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.pdb
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.genruntimeconfig.cache
+C:\Users\salak401\Downloads\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\ref\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.exe
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.deps.json
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.runtimeconfig.json
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.pdb
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfoInputs.cache
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfo.cs
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.csproj.CoreCompileInputs.cache
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\refint\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.pdb
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.genruntimeconfig.cache
+C:\Projects\Ejercicios\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\ref\EjercicioDBM2.dll
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.exe
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.deps.json
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.runtimeconfig.json
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.dll
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.pdb
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfo.cs
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.dll
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\refint\EjercicioDBM2.dll
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.pdb
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.genruntimeconfig.cache
+C:\Users\User\Downloads\EjercicioDBM2.1 - COMPLETADO\EjercicioDBM2.1\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\ref\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.exe
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.deps.json
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.runtimeconfig.json
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\bin\Debug\net8.0\EjercicioDBM2.pdb
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfoInputs.cache
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.AssemblyInfo.cs
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.csproj.CoreCompileInputs.cache
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\refint\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.pdb
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.genruntimeconfig.cache
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\ref\EjercicioDBM2.dll
