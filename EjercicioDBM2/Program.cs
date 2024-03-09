@@ -1,4 +1,5 @@
-﻿using EjercicioDBM2;
+﻿using System;
+using EjercicioDBM2;
 
 //3 productos de precio estático (fp1, fp2, fp3)
 #region 
@@ -102,3 +103,5 @@ invoice2.AddProduct(fp3);
 invoice2.AddProduct(vp4);
 Console.WriteLine(invoice2);
 
+//probando como subit cambios dede git
+Console.WriteLine("prueba");

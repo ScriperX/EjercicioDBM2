@@ -82,3 +82,4 @@ C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.
 C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.pdb
 C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.genruntimeconfig.cache
 C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\ref\EjercicioDBM2.dll
+C:\Projects\Ejercicios\EjercicioDBM2\EjercicioDBM2\EjercicioDBM2\obj\Debug\net8.0\EjercicioDBM2.sourcelink.json
